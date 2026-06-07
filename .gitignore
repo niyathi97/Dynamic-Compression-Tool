@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+compressed_files/*
+decompressed_files/*
+
+.idea/
+.vscode/
+
+*.log
